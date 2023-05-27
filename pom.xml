@@ -3,7 +3,7 @@
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
   <version>0.3.7</version>
-<dependencies>
+<dependencies>d
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
